@@ -60,11 +60,11 @@ WSGI_APPLICATION = 'augdice.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': os.environ['RDS_DB_NAME'],
-        'USER': os.environ['RDS_USERNAME'],
-        'PASSWORD': os.environ['RDS_PASSWORD'],
-        'HOST': os.environ['RDS_HOSTNAME'],
-        'PORT': os.environ['RDS_PORT'],
+        'NAME': 'ebdb'
+        'USER': 'ebroot'
+        'PASSWORD': 'trado123'
+        'HOST': 'aa1wud5bjgy9jwc.c35dpmeioxho.us-west-1.rds.amazonaws.com',
+        'PORT': '3306',
     }
 }
 

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      .tab { position: absolute; margin-left: 10px }
+      #map-canvas { height: 100% }
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaQ7eq9uwvhuqi6ZGmih092NDJA_yURsQ">
+    </script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript">
+      var map;
+      var loc_country;
+      var loc_city;
+      var lat;
+      var longt;
+      function initialize() {
+        var mapOptions = {
+          center: new google.maps.LatLng(37.5, -122.25),
+          //center: new google.maps.LatLng(lat, longt),
+          zoom: 8
+        };
+        map = new google.maps.Map(document.getElementById("map-canvas"),
+            mapOptions);
+        addMarker(37.5, -122.25);
+      }
+
+      function addMarker(lati, longi) {
+        var marker = new google.maps.Marker({
+          //position: new google.maps.LatLng(37.5, -122.25),
+
+          //var latLng = new google.maps.LatLng(lati, longi); //Makes a latlng
+          //map.panTo(latLng); //Make map global
+          position: new google.maps.LatLng(lati, longi),
+          //position: latLng
+          title: 'Hello Rajiv!',
+          map: map
+        });
+      }
+
+      /*function loadScript() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&' +
+            'callback=initialize';
+        document.body.appendChild(script);
+      }*/
+
+      $(document).on("click", "#btn", function() {
+          //alert( "Handler for .click() called." );
+          var geocoder =  new google.maps.Geocoder(); 
+          var locn;
+          loc_country = document.getElementById('country').value;
+          loc_city = document.getElementById('city').value;
+          //locn = loc_city + ", " + loc_country;
+          locn = loc_city;
+          console.log(locn);
+          //geocoder.geocode( { 'address': 'miami, us'}, function(results, status) {
+          geocoder.geocode( { 'address': locn}, function(results, status) {
+          if (status == google.maps.GeocoderStatus.OK) {
+            lat = results[0].geometry.location.lat();
+            longt = results[0].geometry.location.lng();
+            //map.panTo(lat, longt);
+            map.panTo(new google.maps.LatLng(lat,longt));
+            //position: new google.maps.Map.LatLng()
+            //alert("location : " + results[0].geometry.location.lat() + " " +results[0].geometry.location.lng());
+            addMarker(lat, longt);
+            //alert("location : " + results[0].geometry.location.lat() + " " +results[0].geometry.location.lng()); 
+          } else {
+            lat = 0.0;
+            longt = 0.0;
+            //alert("Something got wrong " + status);
+          }
+        });
+      });
+
+      //google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body onload="initialize()">
+    Country: <input type="text" name="country" id="country" value="">
+    <span class="tab">
+      City: <input type="text" name="city" id="city" value="">
+      <input id="btn" type="button" value="Submit" />
+    </span>
+    <div id="map-canvas"/>
+  </body>
+</html>

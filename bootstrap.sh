@@ -21,3 +21,5 @@ unzip /home/vagrant/AWS-ElasticBeanstalk-CLI-2.6.2.zip
 echo "export PATH=\$PATH:/home/vagrant/AWS-ElasticBeanstalk-CLI-2.6.2/eb/linux/python2.7" >> /home/vagrant/.profile
 
 echo -e "\n\n\n" | ssh-keygen -t rsa -C "psivah@yahoo.com"
+git config --global user.name "Siva Pandeti"
+git config --global user.email psivah@yahoo.com

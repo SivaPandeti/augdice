@@ -61,7 +61,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ebdb'
-        'USER': 'ebroot'
+        'USER': 'trado'
         'PASSWORD': 'trado123'
         'HOST': 'aa1wud5bjgy9jwc.c35dpmeioxho.us-west-1.rds.amazonaws.com',
         'PORT': '3306',

@@ -1,0 +1,34 @@
+{
+	"lat": "37.775",
+	"lng": "-122.4183333",
+	"count": "10000",
+	"url": "showMap?location_level=city&location_value=San%20Francisco&distance=&skills=ruby,rails",
+	"location_level": "city",
+	"location_value": "San Francisco",
+	"results": [
+					{
+						"location_level": "zip", 
+						"location_value": "94087", 
+						"lat": "37.3688889", 
+						"lng": "-122.0352778", 
+						"count": "3000", 
+						"url": "showMap?location_level=zip&location_value=94087&distance=&skills=ruby,rails"
+					},
+					{
+						"location_level": "zip", 
+						"location_value": "94306", 
+						"lat": "37.4419444", 
+						"lng": "-122.1419444", 
+						"count": "2000", 
+						"url": "showMap?location_level=zip&location_value=94306&distance=&skills=ruby,rails"
+					},
+					{
+						"location_level": "zip", 
+						"location_value": "94102", 
+						"lat": "37.775", 
+						"lng": "-122.4183333", 
+						"count": "5000", 
+						"url": "showMap?location_level=zip&location_value=94102&distance=&skills=ruby,rails"
+					}
+				]
+}

@@ -1,0 +1,13 @@
+{
+  "cols": [
+        {"id":"","label":"Skill","pattern":"","type":"string"},
+        {"id":"","label":"Number of jobs","pattern":"","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"Java","f":null},{"v":3000,"f":null}]},
+        {"c":[{"v":"Python","f":null},{"v":1000,"f":null}]},
+        {"c":[{"v":"Ruby","f":null},{"v":800,"f":null}]},
+        {"c":[{"v":"C++","f":null},{"v":500,"f":null}]},
+        {"c":[{"v":"C","f":null},{"v":400,"f":null}]}
+      ]
+}

@@ -1,7 +1,7 @@
 from django.conf.urls import patterns, url, include
-from mapview import views
+from charts import views
 
 urlpatterns = patterns('',
-    url(r'^$', views.home, name='home'),
+    url(r'^pie$', views.pie, name='pie'),
 
     )

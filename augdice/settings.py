@@ -38,6 +38,11 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'common',
     'mapview',
+    'ingest',
+    'api',
+    'charts',
+    'oauth2_provider',
+    'corsheaders',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -47,6 +52,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 )
 
 ROOT_URLCONF = 'augdice.urls'
@@ -88,5 +94,10 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 STATIC_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'static')
+
+
+CORS_ORIGIN_ALLOW_ALL = True
+
+
 
 

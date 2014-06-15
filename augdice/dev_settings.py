@@ -38,6 +38,11 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'common',
     'mapview',
+    'ingest',
+    'api',
+    'charts',
+    'oauth2_provider',
+    'corsheaders',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -47,6 +52,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 )
 
 ROOT_URLCONF = 'augdice.urls'
@@ -57,13 +63,23 @@ WSGI_APPLICATION = 'augdice.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.sqlite3',
+#        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#    }
+#}
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql', 
+        'NAME': 'augdice',
+        'USER': 'augdice',
+        'PASSWORD': 'augdice123',
+        'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
+        'PORT': '3306',
     }
 }
-
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
 
@@ -84,4 +100,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 
+CORS_ORIGIN_ALLOW_ALL = True
 

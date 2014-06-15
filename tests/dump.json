@@ -1,0 +1,2680 @@
+{
+    "page": 1,
+    "count": 120,
+    "queryTimeMilSec": 28,
+    "total": 100623,
+    "pageCount": 839,
+    "searchResults": [
+        {
+            "href": "/jobs/c3fd6cce9c33584e758140e277dba5d1",
+            "id": "c3fd6cce9c33584e758140e277dba5d1",
+            "skills": [
+                "PeopleSoft HRMS",
+                "PeopleTools"
+            ],
+            "webUrl": "http://www.dice.com/job/result//617548",
+            "position": {
+                "id": "617548",
+                "title": "PeopleSoft Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Jacksonville",
+                    "region": "FL",
+                    "postalCode": "32246"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5c35c7106bb1ac25e6032208e44d41d4",
+            "id": "5c35c7106bb1ac25e6032208e44d41d4",
+            "skills": [
+                "Visio",
+                "Requirements Gathering",
+                "Waterfall",
+                ".Net",
+                "Analysis",
+                "Diagramming",
+                "SDLC",
+                "MSFT",
+                "Modeling"
+            ],
+            "webUrl": "http://www.dice.com/job/result//610364",
+            "position": {
+                "id": "610364",
+                "title": "Business Analyst",
+                "location": {
+                    "country": "us",
+                    "city": "Oakbrook Terrace",
+                    "region": "IL",
+                    "postalCode": "60181"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2a1000ed514c0c2337b3b0fc97dd9b90",
+            "id": "2a1000ed514c0c2337b3b0fc97dd9b90",
+            "skills": [
+                "firewalls",
+                "Ethernet",
+                "VPN",
+                "Network",
+                "Cisco",
+                "routing",
+                "engineer",
+                "DNS",
+                "switching"
+            ],
+            "webUrl": "http://www.dice.com/job/result//34304",
+            "position": {
+                "id": "34304",
+                "title": "Network Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Irving",
+                    "region": "TX",
+                    "postalCode": "75063"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5c2adb360e58707e10e76710c41698b3",
+            "id": "5c2adb360e58707e10e76710c41698b3",
+            "skills": [
+                "Portal experience",
+                "SSO",
+                "APEX Development"
+            ],
+            "webUrl": "http://www.dice.com/job/result//Req-1551",
+            "position": {
+                "id": "Req-1551",
+                "title": "SFDC Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Avon",
+                    "region": "CT",
+                    "postalCode": "06001"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2ab5fe67735beb4f311693e77ce34e95",
+            "id": "2ab5fe67735beb4f311693e77ce34e95",
+            "skills": [
+                "SSAS",
+                "Data Architect",
+                "SSIS",
+                "SQL Server",
+                "SSRS",
+                "SharePoint Server"
+            ],
+            "webUrl": "http://www.dice.com/job/result//592763",
+            "position": {
+                "id": "592763",
+                "title": "Sr. Data Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Houston",
+                    "region": "TX",
+                    "postalCode": "77025"
+                }
+            }
+        },
+        {
+            "href": "/jobs/ddcc70a3bab59ece30c6621c764b83a8",
+            "id": "ddcc70a3bab59ece30c6621c764b83a8",
+            "skills": [
+                ".net; C#; Oracle 6.0; PL/SQL; SSIS"
+            ],
+            "webUrl": "http://www.dice.com/job/result//109733",
+            "position": {
+                "id": "109733",
+                "title": "Applications Developer",
+                "location": {
+                    "country": "US",
+                    "city": "Lewisville",
+                    "region": "TX",
+                    "postalCode": "75057"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2a5eb78c3c2ad0156dd7967b41992aad",
+            "id": "2a5eb78c3c2ad0156dd7967b41992aad",
+            "skills": [
+                "GIS FME ARCGIS"
+            ],
+            "webUrl": "http://www.dice.com/job/result//GISD_GKT",
+            "position": {
+                "id": "GISD_GKT",
+                "title": "GIS Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Fort Worth",
+                    "region": "TX",
+                    "postalCode": "76102"
+                }
+            }
+        },
+        {
+            "href": "/jobs/0f06f1c3ced3c97e08370182e35e26fb",
+            "id": "0f06f1c3ced3c97e08370182e35e26fb",
+            "skills": [
+                "project",
+                "jad",
+                "requirements gathering",
+                "gap analysis",
+                "business analyst",
+                "test",
+                "use case",
+                "redesign",
+                "lead",
+                "analysis"
+            ],
+            "webUrl": "http://www.dice.com/job/result//921",
+            "position": {
+                "id": "921",
+                "title": "Business Analyst",
+                "location": {
+                    "country": "us",
+                    "city": "Albany",
+                    "region": "NY",
+                    "postalCode": "12240"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c37674c84f6e205b4003c3ba397f347b",
+            "id": "c37674c84f6e205b4003c3ba397f347b",
+            "skills": [
+                "Active Directory Support and Exchange 2010"
+            ],
+            "webUrl": "http://www.dice.com/job/result//617603",
+            "position": {
+                "id": "617603",
+                "title": "Active Directory Support and Exchange 2010",
+                "location": {
+                    "country": "us",
+                    "city": "Morristown",
+                    "region": "NJ",
+                    "postalCode": "07960"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3f68d1b9effa62e0e0a5ef2470d8078",
+            "id": "c3f68d1b9effa62e0e0a5ef2470d8078",
+            "skills": [
+                "PM (Duckcreek + Insurance"
+            ],
+            "webUrl": "http://www.dice.com/job/result//610774",
+            "position": {
+                "id": "610774",
+                "title": "Project Manager",
+                "location": {
+                    "country": "us",
+                    "city": "Morristown",
+                    "region": "NJ",
+                    "postalCode": "07960"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f6eb42290c44e63bbcd16df627a6a6d4",
+            "id": "f6eb42290c44e63bbcd16df627a6a6d4",
+            "skills": [
+                "Software",
+                "Networking",
+                "Desktop Support",
+                "Computer",
+                "IT",
+                "Windows",
+                "Windows XP",
+                "Network",
+                "Hardware",
+                "LAN",
+                "Application",
+                "BASIC",
+                "Desktop"
+            ],
+            "webUrl": "http://www.dice.com/job/result//SR30703",
+            "position": {
+                "id": "SR30703",
+                "title": "TECHNICAL END USER SUPPORT SPECIALIST (TEMPORARY)",
+                "location": {
+                    "country": "US",
+                    "city": "San Francisco",
+                    "region": "CA",
+                    "postalCode": "94101"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5cb2d87285805c04e003e97a35f0f582",
+            "id": "5cb2d87285805c04e003e97a35f0f582",
+            "skills": [
+                "Illustrator",
+                "Adobe",
+                "documentation",
+                "Photoshop",
+                "UX",
+                "wireframe",
+                "Design"
+            ],
+            "webUrl": "http://www.dice.com/job/result//3845",
+            "position": {
+                "id": "3845",
+                "title": "Sr. Designer",
+                "location": {
+                    "country": "us",
+                    "city": "Breinigsville",
+                    "region": "PA",
+                    "postalCode": "18031"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dda47f5a3884095c22214089ece96e81",
+            "id": "dda47f5a3884095c22214089ece96e81",
+            "skills": [
+                "Javascript",
+                "HTML",
+                "Java"
+            ],
+            "webUrl": "http://www.dice.com/job/result//591554",
+            "position": {
+                "id": "591554",
+                "title": "Full Stack Developer, Open Source **KBLV4",
+                "location": {
+                    "country": "us",
+                    "city": "Las Vegas",
+                    "region": "NV",
+                    "postalCode": "89120"
+                }
+            }
+        },
+        {
+            "href": "/jobs/0f827c5cf1ce055c1da2a88665d5b02b",
+            "id": "0f827c5cf1ce055c1da2a88665d5b02b",
+            "skills": [
+                "Data networks",
+                "load balancers",
+                "network firewalls",
+                "TCP/IP",
+                "Cisco Catalyst/Nexus"
+            ],
+            "webUrl": "http://www.dice.com/job/result//803",
+            "position": {
+                "id": "803",
+                "title": "Network Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Denver",
+                    "region": "CO",
+                    "postalCode": "80237"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5cbd1dfc5b107879b77c8411a065b4cd",
+            "id": "5cbd1dfc5b107879b77c8411a065b4cd",
+            "skills": [
+                "Client Facing Presentation Experience"
+            ],
+            "webUrl": "http://www.dice.com/job/result//615676",
+            "position": {
+                "id": "615676",
+                "title": "Chief Technology Officer",
+                "location": {
+                    "country": "us",
+                    "city": "New York",
+                    "region": "NY",
+                    "postalCode": "10007"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd6b285b67caebb03e887247171b1359",
+            "id": "dd6b285b67caebb03e887247171b1359",
+            "skills": [
+                "Fireworks",
+                "AJAX",
+                "CSS3",
+                "SQL",
+                "Photoshop or Illustrator.",
+                "PHP",
+                "JSP",
+                "DHTML",
+                "jQuery",
+                "HTML5",
+                "JavaScript"
+            ],
+            "webUrl": "http://www.dice.com/job/result//517339",
+            "position": {
+                "id": "517339",
+                "title": "Front End Web Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Austin",
+                    "region": "TX",
+                    "postalCode": "78703"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43dbbb1c713c95b169f9968fc58904a6",
+            "id": "43dbbb1c713c95b169f9968fc58904a6",
+            "skills": [
+                "Test Automation Engineer"
+            ],
+            "webUrl": "http://www.dice.com/job/result//617445",
+            "position": {
+                "id": "617445",
+                "title": "Test Automation Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Dulles",
+                    "region": "VA",
+                    "postalCode": "20166"
+                }
+            }
+        },
+        {
+            "href": "/jobs/903bfd80f443a0e649069530df852429",
+            "id": "903bfd80f443a0e649069530df852429",
+            "skills": [
+                "ServiceNow",
+                "JavaScript"
+            ],
+            "webUrl": "http://www.dice.com/job/result//556157",
+            "position": {
+                "id": "556157",
+                "title": "ServiceNow Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Chicago",
+                    "region": "IL",
+                    "postalCode": "60606"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd740c340f98c7a8e6aa7609062d908c",
+            "id": "dd740c340f98c7a8e6aa7609062d908c",
+            "skills": [
+                "CSS3",
+                "HTML5",
+                "JavaScript",
+                "Responsive Web Design"
+            ],
+            "webUrl": "http://www.dice.com/job/result//607216",
+            "position": {
+                "id": "607216",
+                "title": "Front End Web Developers",
+                "location": {
+                    "country": "us",
+                    "city": "Canton",
+                    "region": "MI",
+                    "postalCode": "48187"
+                }
+            }
+        },
+        {
+            "href": "/jobs/4390ce26b0cb80da7142288ec23ef89f",
+            "id": "4390ce26b0cb80da7142288ec23ef89f",
+            "skills": [
+                "SQL",
+                "entity framework",
+                "communication",
+                "ColdFusion",
+                "customer service",
+                "Sr. Software Developer",
+                "dot net",
+                "analytical thinking",
+                "teamwork",
+                "software",
+                "C#",
+                "multi-tasking",
+                "problem solving",
+                "ASP.NET",
+                "T-SQL",
+                ".NET"
+            ],
+            "webUrl": "http://www.dice.com/job/result//20140530",
+            "position": {
+                "id": "20140530",
+                "title": "Contract Sr. .Net Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Fairfield",
+                    "region": "IA",
+                    "postalCode": "52556"
+                }
+            }
+        },
+        {
+            "href": "/jobs/a93aa0e43815b49cf534c257efcb5c29",
+            "id": "a93aa0e43815b49cf534c257efcb5c29",
+            "skills": [
+                "Upstream oil & gas",
+                "Linux",
+                "SQL",
+                "Agile",
+                "SOA",
+                "Oracle WebLogic",
+                "HTML5",
+                "NoSQ",
+                "Java"
+            ],
+            "webUrl": "http://www.dice.com/job/result//621304",
+            "position": {
+                "id": "621304",
+                "title": "Solutions Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Houston",
+                    "region": "TX",
+                    "postalCode": "77019"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c364a94e174aeda3044788a95b42cc65",
+            "id": "c364a94e174aeda3044788a95b42cc65",
+            "skills": [
+                "C#",
+                "and ASP",
+                "HTML",
+                "XML",
+                "Jquery"
+            ],
+            "webUrl": "http://www.dice.com/job/result//LL13191AM",
+            "position": {
+                "id": "LL13191AM",
+                "title": "C# Programmer with Silverlight",
+                "location": {
+                    "country": "us",
+                    "city": "Columbia",
+                    "region": "SC",
+                    "postalCode": "29205"
+                }
+            }
+        },
+        {
+            "href": "/jobs/9037ef6d53ea2101e906d12a0ba02392",
+            "id": "9037ef6d53ea2101e906d12a0ba02392",
+            "skills": [
+                "python",
+                "pricing",
+                "risk",
+                "scripting",
+                "traders",
+                "front office",
+                "C#"
+            ],
+            "webUrl": "http://www.dice.com/job/result//362582",
+            "position": {
+                "id": "362582",
+                "title": "Quant Trade Support, become a trader!",
+                "location": {
+                    "country": "us",
+                    "city": "New York",
+                    "region": "NY",
+                    "postalCode": "10036"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd4ed5a488e48ce51a639123cb8e0888",
+            "id": "dd4ed5a488e48ce51a639123cb8e0888",
+            "skills": [
+                "or Masters and 5 years of Software Test Engineering experience",
+                "BS Degree and 6 years of Software Test Engineering experience",
+                "or an equivalent combination of education and experience."
+            ],
+            "webUrl": "http://www.dice.com/job/result//825",
+            "position": {
+                "id": "825",
+                "title": "Senior Software Test Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Englewood",
+                    "region": "CO",
+                    "postalCode": "80112"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c30dca44bfcf57f37afe00acfba06ad7",
+            "id": "c30dca44bfcf57f37afe00acfba06ad7",
+            "webUrl": "http://www.dice.com/job/result//812615",
+            "position": {
+                "id": "812615",
+                "title": "Business Systems Consultant",
+                "location": {
+                    "country": "US",
+                    "city": "St. Paul",
+                    "region": "MN",
+                    "postalCode": "55102"
+                }
+            }
+        },
+        {
+            "href": "/jobs/a9286deacce30677822f580e9a20e073",
+            "id": "a9286deacce30677822f580e9a20e073",
+            "skills": [
+                "JAVA"
+            ],
+            "webUrl": "http://www.dice.com/job/result//596416",
+            "position": {
+                "id": "596416",
+                "title": "Java Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Eagan",
+                    "region": "MN",
+                    "postalCode": "55120"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f641bf0cefa61595b3f04b573d640d84",
+            "id": "f641bf0cefa61595b3f04b573d640d84",
+            "skills": [
+                "Strong ITIL Release Management process knowledge"
+            ],
+            "webUrl": "http://www.dice.com/job/result//525227",
+            "position": {
+                "id": "525227",
+                "title": "Manager Release Management",
+                "location": {
+                    "country": "us",
+                    "city": "Washington",
+                    "region": "DC",
+                    "postalCode": "20002"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd6602b25bdf7d9d725c79a55c6a45e4",
+            "id": "dd6602b25bdf7d9d725c79a55c6a45e4",
+            "skills": [
+                "ui design",
+                "mac",
+                "ux design",
+                "axure"
+            ],
+            "webUrl": "http://www.dice.com/job/result//AB0021",
+            "position": {
+                "id": "AB0021",
+                "title": "Senior UI Designer",
+                "location": {
+                    "country": "us",
+                    "city": "Los Angeles",
+                    "region": "CA",
+                    "postalCode": "90090"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3f0e5de49bd0fff1cc1904d61c4dcf7",
+            "id": "c3f0e5de49bd0fff1cc1904d61c4dcf7",
+            "skills": [
+                "Linux",
+                "Juniper Firewalls",
+                "TCP/IP",
+                "IDS/SNORT"
+            ],
+            "webUrl": "http://www.dice.com/job/result//596760",
+            "position": {
+                "id": "596760",
+                "title": "Security Analyst",
+                "location": {
+                    "country": "us",
+                    "city": "Foxboro",
+                    "region": "MA",
+                    "postalCode": "02035"
+                }
+            }
+        },
+        {
+            "href": "/jobs/0f7da7f8b1c9bf593148c0678f2c6622",
+            "id": "0f7da7f8b1c9bf593148c0678f2c6622",
+            "skills": [
+                "SAN",
+                "CIFS",
+                "NAS",
+                "NFS",
+                "Fiber Channel",
+                "recovery",
+                "UNIX",
+                "storage",
+                "backup"
+            ],
+            "webUrl": "http://www.dice.com/job/result//551060",
+            "position": {
+                "id": "551060",
+                "title": "Data Protection / Backup Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Bethesda",
+                    "region": "MD",
+                    "postalCode": "20814"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43676b9822edd52e36bbed77e6bf86c4",
+            "id": "43676b9822edd52e36bbed77e6bf86c4",
+            "skills": [
+                "ASG-metaGlossary",
+                "data management"
+            ],
+            "webUrl": "http://www.dice.com/job/result//29942",
+            "position": {
+                "id": "29942",
+                "title": "Metadata Administrator",
+                "location": {
+                    "country": "us",
+                    "city": "Charlotte",
+                    "region": "NC",
+                    "postalCode": "28262"
+                }
+            }
+        },
+        {
+            "href": "/jobs/0f7b35a58243feefe08cb948c9811893",
+            "id": "0f7b35a58243feefe08cb948c9811893",
+            "skills": [
+                "XHTML",
+                "Relational Databases",
+                "HTML",
+                "CSS",
+                "Java Script",
+                "XML",
+                "HTML5"
+            ],
+            "webUrl": "http://www.dice.com/job/result//571713",
+            "position": {
+                "id": "571713",
+                "title": "Web Technologist",
+                "location": {
+                    "country": "us",
+                    "city": "Akron",
+                    "region": "OH",
+                    "postalCode": "44333"
+                }
+            }
+        },
+        {
+            "href": "/jobs/902b4ac337cfd7cc480d6f55049147c3",
+            "id": "902b4ac337cfd7cc480d6f55049147c3",
+            "skills": [
+                "Maestro",
+                "Oracle",
+                "STAR Team",
+                ".NET; SQL on relational DBs such as MS SQL Server",
+                "BuildForge",
+                "Sybase and IBM UDB; Developer"
+            ],
+            "webUrl": "http://www.dice.com/job/result//78107",
+            "position": {
+                "id": "78107",
+                "title": "Technical Lead",
+                "location": {
+                    "country": "us",
+                    "city": "Durham",
+                    "region": "NC",
+                    "postalCode": "27703"
+                }
+            }
+        },
+        {
+            "href": "/jobs/0f40ff333213b248b4f00bc687b273ea",
+            "id": "0f40ff333213b248b4f00bc687b273ea",
+            "skills": [
+                "Experience managing IT projects  Experience with RUP and Waterfall SDLCs",
+                "Knowledge of MS Project  Knowledge of SharePoint"
+            ],
+            "webUrl": "http://www.dice.com/job/result//605892",
+            "position": {
+                "id": "605892",
+                "title": "Project Management - Major ( 1 to 4 years experience) Entry level to Mid Level",
+                "location": {
+                    "country": "us",
+                    "city": "Columbia",
+                    "region": "SC",
+                    "postalCode": "29202"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43a4a966ffb509d413786899bd234771",
+            "id": "43a4a966ffb509d413786899bd234771",
+            "skills": [
+                "\"Front End Developer\" \"UX Designer\" \"UI\" \"HTML\" \"CSS\" \"JavaScript\" \"jQuery\" \"DoJo\""
+            ],
+            "webUrl": "http://www.dice.com/job/result//613449",
+            "position": {
+                "id": "613449",
+                "title": "Dillard's eCommerce Front End Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Little Rock",
+                    "region": "AR",
+                    "postalCode": "72201"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5cef5250788ee110a5722c0edaee06b4",
+            "id": "5cef5250788ee110a5722c0edaee06b4",
+            "skills": [
+                "Java J2EE Struts"
+            ],
+            "webUrl": "http://www.dice.com/job/result//RTS53444",
+            "position": {
+                "id": "RTS53444",
+                "title": "Java J2EE Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Alpharetta",
+                    "region": "GA",
+                    "postalCode": "30004"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3d95ae6a92b5ae4419d2572b9d90de7",
+            "id": "c3d95ae6a92b5ae4419d2572b9d90de7",
+            "skills": [
+                "SAP FICO - Treasury & Cash Management Consultant"
+            ],
+            "webUrl": "http://www.dice.com/job/result//04042014-1",
+            "position": {
+                "id": "04042014-1",
+                "title": "SAP FICO - Treasury & Cash Management Consultant",
+                "location": {
+                    "country": "us",
+                    "city": "Edison",
+                    "region": "NJ",
+                    "postalCode": "08817"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90461c8d50d92e0015cf79f4227669c2",
+            "id": "90461c8d50d92e0015cf79f4227669c2",
+            "skills": [
+                "SQL",
+                "Web Developer",
+                "Web",
+                "Database",
+                "C",
+                "Applications",
+                "SQL Server",
+                "System",
+                "JavaScript",
+                "Developer"
+            ],
+            "webUrl": "http://www.dice.com/job/result//605366",
+            "position": {
+                "id": "605366",
+                "title": "Web Developer: MVC Experience",
+                "location": {
+                    "country": "US",
+                    "city": "Boston",
+                    "region": "MA",
+                    "postalCode": "02108"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f7b0cd0fb58f05a826146873eee0ba2e",
+            "id": "f7b0cd0fb58f05a826146873eee0ba2e",
+            "skills": [
+                "L2 L3 Automation",
+                "Testing"
+            ],
+            "webUrl": "http://www.dice.com/job/result//927639",
+            "position": {
+                "id": "927639",
+                "title": "Network TEST Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "San Jose",
+                    "region": "CA",
+                    "postalCode": "95103"
+                }
+            }
+        },
+        {
+            "href": "/jobs/a97fd817c4a6d0b3eef1a74951f42e3b",
+            "id": "a97fd817c4a6d0b3eef1a74951f42e3b",
+            "skills": [
+                "academic technology",
+                "instructional design"
+            ],
+            "webUrl": "http://www.dice.com/job/result//1011315",
+            "position": {
+                "id": "1011315",
+                "title": "Instructional Designer",
+                "location": {
+                    "country": "us",
+                    "city": "Hanover",
+                    "region": "NH",
+                    "postalCode": "03755"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90774ae0223c0182e14e0d163061bd4d",
+            "id": "90774ae0223c0182e14e0d163061bd4d",
+            "skills": [
+                "BW",
+                "AMX",
+                "TIBCO",
+                "A-TEST",
+                "XSLT",
+                "BE",
+                "CDD",
+                "WEB SERVICES & EAI",
+                "I-TEST"
+            ],
+            "webUrl": "http://www.dice.com/job/result//579532",
+            "position": {
+                "id": "579532",
+                "title": "SENIOR SYSTEMS ANALYST",
+                "location": {
+                    "country": "us",
+                    "city": "Dayton",
+                    "region": "NJ",
+                    "postalCode": "08810"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3f04255a5e46bb8f667dd1c670c765b",
+            "id": "c3f04255a5e46bb8f667dd1c670c765b",
+            "skills": [
+                "REST and SOAP Web services",
+                "XSLT",
+                ".Net / Java Developer JavaScript",
+                "XML"
+            ],
+            "webUrl": "http://www.dice.com/job/result//AD_dotjavaarcgi",
+            "position": {
+                "id": "AD_dotjavaarcgi",
+                "title": ".Net / Java Developer with Geospatial / ArcGIS",
+                "location": {
+                    "country": "us",
+                    "city": "Austin",
+                    "region": "TX",
+                    "postalCode": "78710"
+                }
+            }
+        },
+        {
+            "href": "/jobs/0fe709c9d897623b2b9e9b915450d161",
+            "id": "0fe709c9d897623b2b9e9b915450d161",
+            "skills": [
+                "Kimball",
+                "SQL Server 2008",
+                "SSIS",
+                "MSBI"
+            ],
+            "webUrl": "http://www.dice.com/job/result//DP_SSIS",
+            "position": {
+                "id": "DP_SSIS",
+                "title": "SSIS Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Charlotte",
+                    "region": "NC",
+                    "postalCode": "28202"
+                }
+            }
+        },
+        {
+            "href": "/jobs/9075d30569fd914665c8698711371060",
+            "id": "9075d30569fd914665c8698711371060",
+            "skills": [
+                "requirements gathering",
+                "business analysis"
+            ],
+            "webUrl": "http://www.dice.com/job/result//2014660-1",
+            "position": {
+                "id": "2014660-1",
+                "title": "Business Analyst",
+                "location": {
+                    "country": "us",
+                    "city": "Plano",
+                    "region": "TX",
+                    "postalCode": "75024"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43a8b9f370b93b48e87d207640778667",
+            "id": "43a8b9f370b93b48e87d207640778667",
+            "skills": [
+                "Hadoop"
+            ],
+            "webUrl": "http://www.dice.com/job/result//606462",
+            "position": {
+                "id": "606462",
+                "title": "Hadoop Developer - Atlanta, GA",
+                "location": {
+                    "country": "us",
+                    "city": "Atlanta",
+                    "region": "GA",
+                    "postalCode": "30301"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90f2b8a5ca0856a2f5fd027251ea0a22",
+            "id": "90f2b8a5ca0856a2f5fd027251ea0a22",
+            "skills": [
+                "SQL",
+                "QlikView"
+            ],
+            "webUrl": "http://www.dice.com/job/result//620721",
+            "position": {
+                "id": "620721",
+                "title": "QlikView Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Jersey City",
+                    "region": "NJ",
+                    "postalCode": "07302"
+                }
+            }
+        },
+        {
+            "href": "/jobs/76ff9aa55563236b8e02dd0966dc22d0",
+            "id": "76ff9aa55563236b8e02dd0966dc22d0",
+            "skills": [
+                "MySQL",
+                "SQL",
+                "Business Analyst",
+                "DTS"
+            ],
+            "webUrl": "http://www.dice.com/job/result//ANA16469",
+            "position": {
+                "id": "ANA16469",
+                "title": "Junior Business / Systems Analyst",
+                "location": {
+                    "country": "us",
+                    "city": "El Segundo",
+                    "region": "CA",
+                    "postalCode": "90245"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c328ea1f560923890e23b723f1d682c7",
+            "id": "c328ea1f560923890e23b723f1d682c7",
+            "skills": [
+                "IT project management"
+            ],
+            "webUrl": "http://www.dice.com/job/result//711160",
+            "position": {
+                "id": "711160",
+                "title": "Senior Project Manager",
+                "location": {
+                    "country": "us",
+                    "city": "Miami Lakes",
+                    "region": "FL",
+                    "postalCode": "33016"
+                }
+            }
+        },
+        {
+            "href": "/jobs/76bbbf96654ae1e5b83b0e237e753499",
+            "id": "76bbbf96654ae1e5b83b0e237e753499",
+            "skills": [
+                "TDM Trunks",
+                "switches",
+                "HA Carrier grade",
+                "SIP",
+                "Sonus"
+            ],
+            "webUrl": "http://www.dice.com/job/result//545179",
+            "position": {
+                "id": "545179",
+                "title": "Senior VoIP Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "San Mateo",
+                    "region": "CA",
+                    "postalCode": "94404"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f7e9e77e4b7dff552f807cdfd1d05b71",
+            "id": "f7e9e77e4b7dff552f807cdfd1d05b71",
+            "skills": [
+                "BSA",
+                "HCM",
+                "HRM. SharePoint",
+                "BSM",
+                "CRM",
+                "Workday"
+            ],
+            "webUrl": "http://www.dice.com/job/result//wspos603020",
+            "position": {
+                "id": "wspos603020",
+                "title": "Business Systems Analyst (Workday)",
+                "location": {
+                    "country": "us",
+                    "city": "Boston",
+                    "region": "MA",
+                    "postalCode": "02116"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd8beff865124a9adb277ce05407fd0c",
+            "id": "dd8beff865124a9adb277ce05407fd0c",
+            "skills": [
+                "Senior Windows Systems Administrator"
+            ],
+            "webUrl": "http://www.dice.com/job/result//602533",
+            "position": {
+                "id": "602533",
+                "title": "Senior Windows Systems Administrator",
+                "location": {
+                    "country": "us",
+                    "city": "Arlington",
+                    "region": "VA",
+                    "postalCode": "22201"
+                }
+            }
+        },
+        {
+            "href": "/jobs/768f8cb714f3c4bb3a5fa1b1dffb49f0",
+            "id": "768f8cb714f3c4bb3a5fa1b1dffb49f0",
+            "skills": [
+                "See Job Description"
+            ],
+            "webUrl": "http://www.dice.com/job/result//610679",
+            "position": {
+                "id": "610679",
+                "title": "Software Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "San Francisco",
+                    "region": "CA",
+                    "postalCode": "94105"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90d63f543dc3a284bd49ec7ad039ee19",
+            "id": "90d63f543dc3a284bd49ec7ad039ee19",
+            "skills": [
+                "SalesForce Consulting",
+                "ERP",
+                "CRM"
+            ],
+            "webUrl": "http://www.dice.com/job/result//556155",
+            "position": {
+                "id": "556155",
+                "title": "Client Services Director",
+                "location": {
+                    "country": "us",
+                    "city": "Dallas",
+                    "region": "TX",
+                    "postalCode": "75206"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f730918d02ef53c205a41210687e1487",
+            "id": "f730918d02ef53c205a41210687e1487",
+            "skills": [
+                "HTML",
+                "ASP",
+                "XML",
+                ".NET",
+                "Java"
+            ],
+            "webUrl": "http://www.dice.com/job/result//592355",
+            "position": {
+                "id": "592355",
+                "title": "Web Administrator",
+                "location": {
+                    "country": "us",
+                    "city": "Oklahoma City",
+                    "region": "OK",
+                    "postalCode": "73145"
+                }
+            }
+        },
+        {
+            "href": "/jobs/10446e5c09ff7996ef6a4f2a0db699f3",
+            "id": "10446e5c09ff7996ef6a4f2a0db699f3",
+            "skills": [
+                "lync",
+                "saas",
+                "automation",
+                "git",
+                "windows",
+                "security",
+                "microsoft",
+                "systems administrator",
+                "python",
+                "iis",
+                "365",
+                "perl",
+                "active directory",
+                "cloud",
+                "operations",
+                ".net",
+                "bash",
+                "powershell",
+                "exchange",
+                "administration"
+            ],
+            "webUrl": "http://www.dice.com/job/result//1388TW",
+            "position": {
+                "id": "1388TW",
+                "title": "Windows Systems Administrator",
+                "location": {
+                    "country": "us",
+                    "city": "Reston",
+                    "region": "VA",
+                    "postalCode": "20190"
+                }
+            }
+        },
+        {
+            "href": "/jobs/906140a31fa5a0e4e818c3dea7a78dca",
+            "id": "906140a31fa5a0e4e818c3dea7a78dca",
+            "skills": [
+                "Business Requirements",
+                "Software",
+                "Protocols",
+                "Programming",
+                "Management",
+                "C",
+                "Project Management",
+                "Business Analyst",
+                "Architecture",
+                "Advantage",
+                "Development",
+                "Developer",
+                "Test",
+                "VB",
+                "Oracle",
+                "Networks",
+                "Analytical Skills",
+                "Project",
+                "Applications",
+                "Analytical",
+                "Performance",
+                "System",
+                "Lifecycle",
+                "Desktop",
+                "SQL",
+                "IIS",
+                ".Net",
+                "Analyst",
+                "Computer",
+                "Web",
+                "Analysis",
+                "Application",
+                "Systems",
+                "SDLC",
+                "JavaScript"
+            ],
+            "webUrl": "http://www.dice.com/job/result//701ASF-86139",
+            "position": {
+                "id": "701ASF-86139",
+                "title": "Lead .NET Developer - HTML5, Oracle, JavaScript",
+                "location": {
+                    "country": "US",
+                    "city": "New York",
+                    "region": "NY",
+                    "postalCode": "85345"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f7d017052c075ed966a5edb842c91ff9",
+            "id": "f7d017052c075ed966a5edb842c91ff9",
+            "skills": [
+                "ETL",
+                "SQL",
+                "MS SQL Server"
+            ],
+            "webUrl": "http://www.dice.com/job/result//wspos603272",
+            "position": {
+                "id": "wspos603272",
+                "title": "Database Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Tempe",
+                    "region": "AZ",
+                    "postalCode": "85282"
+                }
+            }
+        },
+        {
+            "href": "/jobs/768e2a9c4775369e2a28f8e085ee1869",
+            "id": "768e2a9c4775369e2a28f8e085ee1869",
+            "webUrl": "http://www.dice.com/job/result//318076",
+            "position": {
+                "id": "318076",
+                "title": "Deskside Support",
+                "location": {
+                    "country": "US",
+                    "city": "Houston",
+                    "region": "TX",
+                    "postalCode": "77077"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43574c12484923adc9a55c78794b24eb",
+            "id": "43574c12484923adc9a55c78794b24eb",
+            "skills": [
+                "Rational Functional Testing"
+            ],
+            "webUrl": "http://www.dice.com/job/result//4045D",
+            "position": {
+                "id": "4045D",
+                "title": "Rational Functional Tester",
+                "location": {
+                    "country": "us",
+                    "city": "Gaithersburg",
+                    "region": "MD",
+                    "postalCode": "20879"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90c7c6ccb26fa12338020da56a115292",
+            "id": "90c7c6ccb26fa12338020da56a115292",
+            "skills": [
+                "kernal",
+                "Linux",
+                "C/C++.",
+                "IPC",
+                "Git",
+                "CMake",
+                "CPP-Unit",
+                "threading",
+                "Jenkins"
+            ],
+            "webUrl": "http://www.dice.com/job/result//595255",
+            "position": {
+                "id": "595255",
+                "title": "Embedded Linux Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Mason",
+                    "region": "OH",
+                    "postalCode": "45040"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5cb3a7285b14f3a47fafef4d7af7a37c",
+            "id": "5cb3a7285b14f3a47fafef4d7af7a37c",
+            "skills": [
+                "Visio",
+                "SharePoint",
+                "Word",
+                "PowerPoint",
+                "Microsoft Project",
+                "Project Management Professional (PMP)",
+                "Excel"
+            ],
+            "webUrl": "http://www.dice.com/job/result//366695",
+            "position": {
+                "id": "366695",
+                "title": "Manager, Implementation-Healthcare",
+                "location": {
+                    "country": "us",
+                    "city": "Brea",
+                    "region": "CA",
+                    "postalCode": "92821"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2a05760958c0c9f9f5be7c37fbf1b335",
+            "id": "2a05760958c0c9f9f5be7c37fbf1b335",
+            "skills": [
+                "SQL Server 2008",
+                "SSIS",
+                "SSRS",
+                ".NET"
+            ],
+            "webUrl": "http://www.dice.com/job/result//509144",
+            "position": {
+                "id": "509144",
+                "title": "SQL Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Pompano Beach",
+                    "region": "FL",
+                    "postalCode": "33069"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90721e4b26e82a7d1a2fc506a1267ba1",
+            "id": "90721e4b26e82a7d1a2fc506a1267ba1",
+            "skills": [
+                "Unix/Linux",
+                "Websphere/MQSeries",
+                "Windows/Network Admin",
+                "NSDM/Connect Direct"
+            ],
+            "webUrl": "http://www.dice.com/job/result//4341",
+            "position": {
+                "id": "4341",
+                "title": "EDI Coordinator (5317)",
+                "location": {
+                    "country": "us",
+                    "city": "Irving",
+                    "region": "TX",
+                    "postalCode": "75038"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90d02b22e8a623619eb1893ec3aa8767",
+            "id": "90d02b22e8a623619eb1893ec3aa8767",
+            "skills": [
+                "SOA",
+                "J2EE",
+                "Weblogic",
+                "Java"
+            ],
+            "webUrl": "http://www.dice.com/job/result//602948",
+            "position": {
+                "id": "602948",
+                "title": "SOA Services Lead",
+                "location": {
+                    "country": "us",
+                    "city": "Miami",
+                    "region": "FL",
+                    "postalCode": "33178"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f72dc5a7859c1eab8a6346b76d810157",
+            "id": "f72dc5a7859c1eab8a6346b76d810157",
+            "skills": [
+                "Adaptive Web Design",
+                "API implementation",
+                "JQuery",
+                "CSS",
+                "web accessibility",
+                "Photoshop",
+                "ARIA",
+                "HTML5",
+                "UX",
+                "WCAG2",
+                "JavaScript",
+                "Responsive Web Design"
+            ],
+            "webUrl": "http://www.dice.com/job/result//153362",
+            "position": {
+                "id": "153362",
+                "title": "Web Accessibility Expert",
+                "location": {
+                    "country": "us",
+                    "city": "Seattle",
+                    "region": "WA",
+                    "postalCode": "98102"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f78a9a121e471091ece0588725357dbb",
+            "id": "f78a9a121e471091ece0588725357dbb",
+            "skills": [
+                "QTP; UFT; ALM;"
+            ],
+            "webUrl": "http://www.dice.com/job/result//QUF01",
+            "position": {
+                "id": "QUF01",
+                "title": "QTP/ UFT Automation Tester",
+                "location": {
+                    "country": "us",
+                    "city": "Nashville",
+                    "region": "TN",
+                    "postalCode": "37201"
+                }
+            }
+        },
+        {
+            "href": "/jobs/767f350461ccc68c3b26d5f3e093cd48",
+            "id": "767f350461ccc68c3b26d5f3e093cd48",
+            "skills": [
+                "Information Technology",
+                "Business Development",
+                "Management",
+                "Technical Staffing",
+                "Training",
+                "Recruitment"
+            ],
+            "webUrl": "http://www.dice.com/job/result//617451",
+            "position": {
+                "id": "617451",
+                "title": "Branch Manager-IT Staffing Firm",
+                "location": {
+                    "country": "us",
+                    "city": "Kirkland",
+                    "region": "WA",
+                    "postalCode": "98033"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2aebbeda9263fa237152303fc43b6eb3",
+            "id": "2aebbeda9263fa237152303fc43b6eb3",
+            "skills": [
+                "Human Resource Manager"
+            ],
+            "webUrl": "http://www.dice.com/job/result//617697",
+            "position": {
+                "id": "617697",
+                "title": "Human Resource Manager",
+                "location": {
+                    "country": "us",
+                    "city": "Santa Clara",
+                    "region": "CA",
+                    "postalCode": "95050"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd1f41aadb3195a8902e6e38cf6cfbd5",
+            "id": "dd1f41aadb3195a8902e6e38cf6cfbd5",
+            "skills": [
+                "javascript",
+                "flash",
+                "demandware",
+                "JSON",
+                "ecommerce",
+                "web services",
+                "xml",
+                "salesforce.com",
+                "GAE",
+                "emarketing",
+                "ajax",
+                "html5",
+                "cloud",
+                "java",
+                "css",
+                "retail"
+            ],
+            "webUrl": "http://www.dice.com/job/result//520343",
+            "position": {
+                "id": "520343",
+                "title": "Software Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Chicago",
+                    "region": "IL",
+                    "postalCode": "60606"
+                }
+            }
+        },
+        {
+            "href": "/jobs/437b228d2975338da6bd7974ff6eeae7",
+            "id": "437b228d2975338da6bd7974ff6eeae7",
+            "skills": [
+                "AD/DC",
+                "HVAC",
+                "Data Center Management",
+                "Facilities Management"
+            ],
+            "webUrl": "http://www.dice.com/job/result//TEXAS",
+            "position": {
+                "id": "TEXAS",
+                "title": "Data Center Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Richardson",
+                    "region": "TX",
+                    "postalCode": "75080"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3244cff70b93f8bbcb5297ff8ffa409",
+            "id": "c3244cff70b93f8bbcb5297ff8ffa409",
+            "skills": [
+                "Automation. manual. HP",
+                "QA",
+                "QC",
+                "test lead",
+                "Tester"
+            ],
+            "webUrl": "http://www.dice.com/job/result//378528",
+            "position": {
+                "id": "378528",
+                "title": "SAP Test Lead",
+                "location": {
+                    "country": "us",
+                    "city": "Jackson",
+                    "region": "MI",
+                    "postalCode": "49201"
+                }
+            }
+        },
+        {
+            "href": "/jobs/9012ccabc8cedf4e02b0fa4d1ac4579e",
+            "id": "9012ccabc8cedf4e02b0fa4d1ac4579e",
+            "skills": [
+                "Project Manager",
+                "Business Requirements",
+                "Management",
+                "Quality",
+                "Analyst",
+                "Project Management",
+                "Business Analyst",
+                "Testing",
+                "IT",
+                "Development",
+                "Test",
+                "Manager",
+                "Analysis",
+                "Project",
+                "System"
+            ],
+            "webUrl": "http://www.dice.com/job/result//ITAQG1334639",
+            "position": {
+                "id": "ITAQG1334639",
+                "title": "Project Manager / BA - Health Insurance",
+                "location": {
+                    "country": "US",
+                    "city": "Cambridge",
+                    "region": "MA",
+                    "postalCode": "02141"
+                }
+            }
+        },
+        {
+            "href": "/jobs/ddfdd8b98958e179317bc6a1224a9d61",
+            "id": "ddfdd8b98958e179317bc6a1224a9d61",
+            "skills": [
+                "Software",
+                "QA",
+                "Business Analyst",
+                "Testing",
+                "Tester",
+                "Requirements",
+                "BA",
+                "Business System Analyst",
+                "SQA"
+            ],
+            "webUrl": "http://www.dice.com/job/result//609551",
+            "position": {
+                "id": "609551",
+                "title": "Business Analyst/Software Tester",
+                "location": {
+                    "country": "us",
+                    "city": "Tampa",
+                    "region": "FL",
+                    "postalCode": "33607"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5c7384c76738861ee719f795cecdda41",
+            "id": "5c7384c76738861ee719f795cecdda41",
+            "skills": [
+                "troubleshooting",
+                "telecom installation and maintenance",
+                "IT",
+                "telecom network operations",
+                "Telecommunications"
+            ],
+            "webUrl": "http://www.dice.com/job/result//7790",
+            "position": {
+                "id": "7790",
+                "title": "Telecommunications Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "The Woodlands",
+                    "region": "TX",
+                    "postalCode": "77380"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90d9c50604cd21f3ee711a32444be838",
+            "id": "90d9c50604cd21f3ee711a32444be838",
+            "skills": [
+                "computer",
+                "computer support",
+                "it",
+                "information technology",
+                "it support",
+                "information systems"
+            ],
+            "webUrl": "http://www.dice.com/job/result//wspos232170",
+            "position": {
+                "id": "wspos232170",
+                "title": "IT Support Specialist",
+                "location": {
+                    "country": "us",
+                    "city": "Stanford",
+                    "region": "CA",
+                    "postalCode": "94305"
+                }
+            }
+        },
+        {
+            "href": "/jobs/4394d85389c3c89d77ecb90d82668ce8",
+            "id": "4394d85389c3c89d77ecb90d82668ce8",
+            "skills": [
+                "Java/Python/Django/Amazon EC2/Azure/ Linux"
+            ],
+            "webUrl": "http://www.dice.com/job/result//606072",
+            "position": {
+                "id": "606072",
+                "title": "Java Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Aurora",
+                    "region": "IL",
+                    "postalCode": "60504"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5c4c5e33b0255e272125a1e731249a13",
+            "id": "5c4c5e33b0255e272125a1e731249a13",
+            "skills": [
+                "SQL",
+                "EDI",
+                ".Net",
+                "Biztalk"
+            ],
+            "webUrl": "http://www.dice.com/job/result//612289",
+            "position": {
+                "id": "612289",
+                "title": "Need EDI Developer Biztalk",
+                "location": {
+                    "country": "us",
+                    "city": "Medford",
+                    "region": "MA",
+                    "postalCode": "02155"
+                }
+            }
+        },
+        {
+            "href": "/jobs/909cfb4c1bb3f0b15f586c7e8010004a",
+            "id": "909cfb4c1bb3f0b15f586c7e8010004a",
+            "skills": [
+                "3-5 years of hands-on experience in managing Weblogic & JBoss based application server infrastructure; exp in troubleshooting various application server specific issues"
+            ],
+            "webUrl": "http://www.dice.com/job/result//212073",
+            "position": {
+                "id": "212073",
+                "title": "Infrastructure Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Unspecified",
+                    "region": "NY",
+                    "postalCode": "99999"
+                }
+            }
+        },
+        {
+            "href": "/jobs/106fe2d2b8ec928c15164b2a9bbb6ac6",
+            "id": "106fe2d2b8ec928c15164b2a9bbb6ac6",
+            "skills": [
+                "Communication Equipment",
+                "network analysis",
+                "LAN/WAN"
+            ],
+            "webUrl": "http://www.dice.com/job/result//EB-5429905116",
+            "position": {
+                "id": "EB-5429905116",
+                "title": "SYSTEM ADMINISTRATOR (GENERAL)",
+                "location": {
+                    "country": "us",
+                    "city": "Quantico",
+                    "region": "VA",
+                    "postalCode": "22134"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c31271f5c668fd6eeac6991e490018f7",
+            "id": "c31271f5c668fd6eeac6991e490018f7",
+            "skills": [
+                "Engineer",
+                "Software",
+                "Networking",
+                "Unix",
+                "Ethernet",
+                "Protocols",
+                "Programming",
+                "C",
+                "Architecture",
+                "IT",
+                "Software Engineer",
+                "Engineering",
+                "Network",
+                "Application",
+                "Networks",
+                "Applications",
+                "Systems",
+                "NeXt",
+                "System",
+                "Router"
+            ],
+            "webUrl": "http://www.dice.com/job/result//922667",
+            "position": {
+                "id": "922667",
+                "title": "Software Engineer 4",
+                "location": {
+                    "country": "US",
+                    "city": "Costa Mesa",
+                    "region": "CA",
+                    "postalCode": "92626"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43336a2b61dff5c0e3a85bf3fc62d565",
+            "id": "43336a2b61dff5c0e3a85bf3fc62d565",
+            "skills": [
+                "Data Modelling",
+                "Oracle",
+                "Hyperion",
+                "Analytics",
+                "Cognos",
+                "Business Intelligence"
+            ],
+            "webUrl": "http://www.dice.com/job/result//541179",
+            "position": {
+                "id": "541179",
+                "title": "Business Intelligence Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Sunnyvale",
+                    "region": "CA",
+                    "postalCode": "94087"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f7fb5658ff4b6aef048f9dc4dcfc841b",
+            "id": "f7fb5658ff4b6aef048f9dc4dcfc841b",
+            "skills": [
+                "ETL",
+                "DBA",
+                "Business Intelligence Analyst",
+                "Data analysis"
+            ],
+            "webUrl": "http://www.dice.com/job/result//wspos621818",
+            "position": {
+                "id": "wspos621818",
+                "title": "Business Intelligence Data Base Administrator",
+                "location": {
+                    "country": "us",
+                    "city": "Charlottesville",
+                    "region": "VA",
+                    "postalCode": "22903"
+                }
+            }
+        },
+        {
+            "href": "/jobs/76dae36278de2ae6500e3bd09f3da642",
+            "id": "76dae36278de2ae6500e3bd09f3da642",
+            "skills": [
+                "OCS",
+                "Lync 2010/2013"
+            ],
+            "webUrl": "http://www.dice.com/job/result//597191",
+            "position": {
+                "id": "597191",
+                "title": "Exchange/ Lync Consultant",
+                "location": {
+                    "country": "us",
+                    "city": "Chicago",
+                    "region": "IL",
+                    "postalCode": "60606"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd1536bf4babe3227432f047339a5ac4",
+            "id": "dd1536bf4babe3227432f047339a5ac4",
+            "skills": [
+                "Identity Management and/or IT Security Experience with business-critical IT systems"
+            ],
+            "webUrl": "http://www.dice.com/job/result//493684",
+            "position": {
+                "id": "493684",
+                "title": "Identity Management with LDAP",
+                "location": {
+                    "country": "us",
+                    "city": "Greenville",
+                    "region": "SC",
+                    "postalCode": "29601"
+                }
+            }
+        },
+        {
+            "href": "/jobs/a9cf24f1f0d5d8194e4e5672395b5b1b",
+            "id": "a9cf24f1f0d5d8194e4e5672395b5b1b",
+            "skills": [
+                "PICIS",
+                "Siemens Financials",
+                "Siemens Scheduling",
+                "SQRS",
+                "EDM",
+                "scripting tools",
+                "NPR",
+                "Siemens Soarian DSS",
+                "query languages",
+                "Siemans Clinicals",
+                "Crystal reports",
+                "Meditech"
+            ],
+            "webUrl": "http://www.dice.com/job/result//603669",
+            "position": {
+                "id": "603669",
+                "title": "EMR SYSTEMS REPORT ANALYST",
+                "location": {
+                    "country": "us",
+                    "city": "Boston",
+                    "region": "MA",
+                    "postalCode": "02120"
+                }
+            }
+        },
+        {
+            "href": "/jobs/a9409115cbebb7fc451fe52a8d377e0d",
+            "id": "a9409115cbebb7fc451fe52a8d377e0d",
+            "webUrl": "http://www.dice.com/job/result//12592X7601",
+            "position": {
+                "id": "12592X7601",
+                "title": "Software Engineer - 7601",
+                "location": {
+                    "country": "US",
+                    "city": "Folsom",
+                    "region": "CA",
+                    "postalCode": "95630"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2ada9c1b14570c59e1bf5d2a6eb872f8",
+            "id": "2ada9c1b14570c59e1bf5d2a6eb872f8",
+            "skills": [
+                "AJAX",
+                "Javascript",
+                "User Experience",
+                "User Interface",
+                "JQuery",
+                "Web UI/UX Software Engineer"
+            ],
+            "webUrl": "http://www.dice.com/job/result//DM091913-AGG",
+            "position": {
+                "id": "DM091913-AGG",
+                "title": "Web Application Software Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Cambridge",
+                    "region": "MA",
+                    "postalCode": "02138"
+                }
+            }
+        },
+        {
+            "href": "/jobs/76cbfb28d5579a730b699ce6020f568d",
+            "id": "76cbfb28d5579a730b699ce6020f568d",
+            "skills": [
+                "Applications Developer - Intermediate"
+            ],
+            "webUrl": "http://www.dice.com/job/result//595434",
+            "position": {
+                "id": "595434",
+                "title": "App Programmer/Analyst Intermedaite",
+                "location": {
+                    "country": "us",
+                    "city": "Ann Arbor",
+                    "region": "MI",
+                    "postalCode": "48109"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43b8d709ff3e038453d5499c6a3cb230",
+            "id": "43b8d709ff3e038453d5499c6a3cb230",
+            "skills": [
+                ".NET Developer Qualifications: Proficien..."
+            ],
+            "webUrl": "http://www.dice.com/job/result//305350-10714-12-350841",
+            "position": {
+                "id": "305350-10714-12-350841",
+                "title": ".NET Developer (.NET, ASP.NET, VB.NET), Direct Hire!!",
+                "location": {
+                    "country": "US",
+                    "city": "Lenexa",
+                    "region": "KS",
+                    "postalCode": "66214"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2a84d6c55cda87fe678ca83e43c1cf0e",
+            "id": "2a84d6c55cda87fe678ca83e43c1cf0e",
+            "skills": [
+                "Information Technology",
+                "Development",
+                "Computer Software",
+                "Telecommunications",
+                "Consumer Products"
+            ],
+            "webUrl": "http://www.dice.com/job/result//405117",
+            "position": {
+                "id": "405117",
+                "title": ".NET DEVELOPER",
+                "location": {
+                    "country": "us",
+                    "city": "Horsham",
+                    "region": "PA",
+                    "postalCode": "19044"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f790ce60d260da6fbdb7fa732f3c7eac",
+            "id": "f790ce60d260da6fbdb7fa732f3c7eac",
+            "skills": [
+                "MapReduce",
+                "PIG",
+                "Cassandra",
+                "Perl",
+                "Flume",
+                "Sqoop",
+                "Storm",
+                "Java",
+                "Hive",
+                "Apache",
+                "HBase",
+                "Oozie",
+                "Solr",
+                "Programming Paradigm",
+                "Python",
+                "Big Data",
+                "Hadoop",
+                "Teradata",
+                "Netezza",
+                "Linux",
+                "NoSQL",
+                "PHP",
+                "MongoDB"
+            ],
+            "webUrl": "http://www.dice.com/job/result//405988",
+            "position": {
+                "id": "405988",
+                "title": "Hadoop Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Denver",
+                    "region": "CO",
+                    "postalCode": "80201"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3bcd6a56b2ab460f9b16682e3036b2f",
+            "id": "c3bcd6a56b2ab460f9b16682e3036b2f",
+            "skills": [
+                "Phone Skills",
+                "Job Knowledge",
+                "Data Entry Skills",
+                "Customer Service",
+                "Product Knowledge"
+            ],
+            "webUrl": "http://www.dice.com/job/result//613803",
+            "position": {
+                "id": "613803",
+                "title": "Technical Service Team Leader",
+                "location": {
+                    "country": "us",
+                    "city": "Duluth",
+                    "region": "MN",
+                    "postalCode": "55801"
+                }
+            }
+        },
+        {
+            "href": "/jobs/43082522f4271ac33a90054d1c31dbce",
+            "id": "43082522f4271ac33a90054d1c31dbce",
+            "skills": [
+                "firewalls",
+                "mitigate security vulnerabilities",
+                "traffic flows",
+                "Troubleshooting system",
+                "System administrator"
+            ],
+            "webUrl": "http://www.dice.com/job/result//305",
+            "position": {
+                "id": "305",
+                "title": "Systems Administrators -Washington  DC",
+                "location": {
+                    "country": "us",
+                    "city": "Washington",
+                    "region": "DC",
+                    "postalCode": "20415"
+                }
+            }
+        },
+        {
+            "href": "/jobs/aa6d4c8fe3c18fce52fa77186548a84b",
+            "id": "aa6d4c8fe3c18fce52fa77186548a84b",
+            "skills": [
+                "IT Project Management"
+            ],
+            "webUrl": "http://www.dice.com/job/result//AT_PM_NO",
+            "position": {
+                "id": "AT_PM_NO",
+                "title": "Project Manager",
+                "location": {
+                    "country": "us",
+                    "city": "New Orleans",
+                    "region": "LA",
+                    "postalCode": "70112"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5d6198d42d8ea06b01097dec67375dac",
+            "id": "5d6198d42d8ea06b01097dec67375dac",
+            "skills": [
+                "SQL",
+                "Oracle Database",
+                "XML/XLST",
+                "JSP \tWeb Services development",
+                "HTML",
+                "Struts",
+                "Unix OS/Unix S",
+                "JavaScript"
+            ],
+            "webUrl": "http://www.dice.com/job/result//8204",
+            "position": {
+                "id": "8204",
+                "title": "Senior Java Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Richmond",
+                    "region": "VA",
+                    "postalCode": "23173"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c33e0d6cb53565f0280ce79f76acfcc3",
+            "id": "c33e0d6cb53565f0280ce79f76acfcc3",
+            "skills": [
+                "PLA",
+                "RTU configurations",
+                "SCADA",
+                "RRU point assignment"
+            ],
+            "webUrl": "http://www.dice.com/job/result//TE4563",
+            "position": {
+                "id": "TE4563",
+                "title": "Power/SCADA Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Philadelphia",
+                    "region": "PA",
+                    "postalCode": "19019"
+                }
+            }
+        },
+        {
+            "href": "/jobs/76214847dd19d3ebe8f2b3686ed3dbf9",
+            "id": "76214847dd19d3ebe8f2b3686ed3dbf9",
+            "skills": [
+                "SAP Learning Solution",
+                "SEI",
+                "MSF",
+                "RUP",
+                "Agile Methods",
+                "IT Strategy",
+                "PMBOK"
+            ],
+            "webUrl": "http://www.dice.com/job/result//26262",
+            "position": {
+                "id": "26262",
+                "title": "Supervisor IT",
+                "location": {
+                    "country": "us",
+                    "city": "Long Island City",
+                    "region": "NY",
+                    "postalCode": "11101"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd79b1208b4e9c2217379ca6a9fd11f2",
+            "id": "dd79b1208b4e9c2217379ca6a9fd11f2",
+            "skills": [
+                "3-5 years of expereince with client side SharePoint solutions",
+                "SharePoint Designer",
+                "InfoPath",
+                "MOSS/SharePoint 2007/2010"
+            ],
+            "webUrl": "http://www.dice.com/job/result//507267",
+            "position": {
+                "id": "507267",
+                "title": "SharePoint Solution Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Washington",
+                    "region": "DC",
+                    "postalCode": "20001"
+                }
+            }
+        },
+        {
+            "href": "/jobs/435c6bff454d9127c6948047639ca343",
+            "id": "435c6bff454d9127c6948047639ca343",
+            "skills": [
+                "PLEASE CHECK THE JOB DESCRIPTION"
+            ],
+            "webUrl": "http://www.dice.com/job/result//591606",
+            "position": {
+                "id": "591606",
+                "title": "Senior UX Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Oakland",
+                    "region": "CA",
+                    "postalCode": "94601"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c31e570cd1c1425b18712b06abc2ea63",
+            "id": "c31e570cd1c1425b18712b06abc2ea63",
+            "skills": [
+                "."
+            ],
+            "webUrl": "http://www.dice.com/job/result//12011513",
+            "position": {
+                "id": "12011513",
+                "title": "Sr. Director - User Experience",
+                "location": {
+                    "country": "US",
+                    "city": "Schaumburg",
+                    "region": "IL",
+                    "postalCode": "60159"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2ad2dd22c86bf86ee905386225c4a5d3",
+            "id": "2ad2dd22c86bf86ee905386225c4a5d3",
+            "skills": [
+                "Linux",
+                "Windows",
+                "embedded systems",
+                "C/C++/C#",
+                "and other operating systems",
+                "Java; SOA"
+            ],
+            "webUrl": "http://www.dice.com/job/result//468517",
+            "position": {
+                "id": "468517",
+                "title": "Software/Systems Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Camarillo",
+                    "region": "CA",
+                    "postalCode": "93012"
+                }
+            }
+        },
+        {
+            "href": "/jobs/f70640babf39b62eaa6677eaf0365248",
+            "id": "f70640babf39b62eaa6677eaf0365248",
+            "skills": [
+                "Software",
+                "Analyst",
+                "Business Analyst",
+                "IT",
+                "Development",
+                "Developer",
+                "Engineering",
+                "Network",
+                "Metrics",
+                "Manager",
+                "Analysis",
+                "Analytical Skills",
+                "Project",
+                "Analytical",
+                "Research",
+                "Performance"
+            ],
+            "webUrl": "http://www.dice.com/job/result//349714-1D",
+            "position": {
+                "id": "349714-1D",
+                "title": "Senior Network and Cloud Product Manager and Developer",
+                "location": {
+                    "country": "US",
+                    "city": "Richardson",
+                    "region": "TX",
+                    "postalCode": "75080"
+                }
+            }
+        },
+        {
+            "href": "/jobs/909a4f7b63283e0f6d955cdbd6acb419",
+            "id": "909a4f7b63283e0f6d955cdbd6acb419",
+            "skills": [
+                "Alstom EMS & MMS Systems"
+            ],
+            "webUrl": "http://www.dice.com/job/result//AEMSMMS",
+            "position": {
+                "id": "AEMSMMS",
+                "title": "Alstom EMS/MMS Production Support  Engineer",
+                "location": {
+                    "country": "us",
+                    "city": "Austin",
+                    "region": "TX",
+                    "postalCode": "78701"
+                }
+            }
+        },
+        {
+            "href": "/jobs/ddd1d2cc6e44ae955b4627bd78b63f8e",
+            "id": "ddd1d2cc6e44ae955b4627bd78b63f8e",
+            "skills": [
+                "Management",
+                "technical support",
+                "Help Desk",
+                "problem-solving",
+                "Troubleshooting"
+            ],
+            "webUrl": "http://www.dice.com/job/result//7632",
+            "position": {
+                "id": "7632",
+                "title": "Help Desk Manager",
+                "location": {
+                    "country": "us",
+                    "city": "The Woodlands",
+                    "region": "TX",
+                    "postalCode": "77380"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2ad718ffb28da1159cca592a72501c07",
+            "id": "2ad718ffb28da1159cca592a72501c07",
+            "webUrl": "http://www.dice.com/job/result//45509",
+            "position": {
+                "id": "45509",
+                "title": "IT Manager",
+                "location": {
+                    "country": "US",
+                    "city": "Burnsville",
+                    "region": "MN",
+                    "postalCode": "55337"
+                }
+            }
+        },
+        {
+            "href": "/jobs/105b3ac89556e69ca66e70d5823aee87",
+            "id": "105b3ac89556e69ca66e70d5823aee87",
+            "skills": [
+                "Project Manager",
+                "Management",
+                "Materials",
+                "Quality",
+                "SAP MM",
+                "IT",
+                "Genetics",
+                "Consulting",
+                "SAP",
+                "IBM",
+                "Manager",
+                "Application",
+                "Consultant",
+                "Project",
+                "System",
+                "Lifecycle"
+            ],
+            "webUrl": "http://www.dice.com/job/result//GBS-0469593_10",
+            "position": {
+                "id": "GBS-0469593_10",
+                "title": "SAP Procure to Pay Team Lead - Industry experience in Consumer Products, Pharma or Retail",
+                "location": {
+                    "country": "US",
+                    "city": "Washington",
+                    "region": "DC",
+                    "postalCode": "20001"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd878a3b711297db7463d86f28fe758c",
+            "id": "dd878a3b711297db7463d86f28fe758c",
+            "skills": [
+                "NetApp Cluster",
+                "IBM 8000 series",
+                "VNX",
+                "7-mode",
+                "EMC VMAX"
+            ],
+            "webUrl": "http://www.dice.com/job/result//2036D",
+            "position": {
+                "id": "2036D",
+                "title": "Storage Administrator",
+                "location": {
+                    "country": "us",
+                    "city": "Portland",
+                    "region": "OR",
+                    "postalCode": "97225"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90ef156460fed21277c9ec3e83160489",
+            "id": "90ef156460fed21277c9ec3e83160489",
+            "skills": [
+                "Base Benefits",
+                "Requirements Gathering",
+                "Core HR",
+                "Business Analyst",
+                "Consultant",
+                "PeopleSoft 9.x HCM",
+                "SDLC",
+                "PeopleTools",
+                "Software Design"
+            ],
+            "webUrl": "http://www.dice.com/job/result//513799",
+            "position": {
+                "id": "513799",
+                "title": "PeopleSoft HCM Analyst, Applications Specialist",
+                "location": {
+                    "country": "us",
+                    "city": "Raleigh",
+                    "region": "NC",
+                    "postalCode": "27695"
+                }
+            }
+        },
+        {
+            "href": "/jobs/433486eebf374aa8b9bad26ba2bb7b87",
+            "id": "433486eebf374aa8b9bad26ba2bb7b87",
+            "skills": [
+                "Adobe Acrobat Pro",
+                "FrameMaker",
+                "PowerPoint.",
+                "VISIO",
+                "Sharepoint / Sharepoint Designer",
+                "Excel"
+            ],
+            "webUrl": "http://www.dice.com/job/result//2727VP_TCH@AZ",
+            "position": {
+                "id": "2727VP_TCH@AZ",
+                "title": "Technical Writer",
+                "location": {
+                    "country": "us",
+                    "city": "Chandler",
+                    "region": "AZ",
+                    "postalCode": "85248"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c391d371c1c378d326599da40821f965",
+            "id": "c391d371c1c378d326599da40821f965",
+            "skills": [
+                "iOS developer"
+            ],
+            "webUrl": "http://www.dice.com/job/result//600448",
+            "position": {
+                "id": "600448",
+                "title": "iOS developer",
+                "location": {
+                    "country": "us",
+                    "city": "King Of Prussia",
+                    "region": "PA",
+                    "postalCode": "19406"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90fab3698f01aded905dfa1943a9324d",
+            "id": "90fab3698f01aded905dfa1943a9324d",
+            "skills": [
+                "IT- FInance"
+            ],
+            "webUrl": "http://www.dice.com/job/result//407550",
+            "position": {
+                "id": "407550",
+                "title": "Business Analyst",
+                "location": {
+                    "country": "us",
+                    "city": "Pittsburgh",
+                    "region": "PA",
+                    "postalCode": "15222"
+                }
+            }
+        },
+        {
+            "href": "/jobs/2a42e30d885cbc86eac944b6b012c5d7",
+            "id": "2a42e30d885cbc86eac944b6b012c5d7",
+            "skills": [
+                "Instructor"
+            ],
+            "webUrl": "http://www.dice.com/job/result//wspos600964",
+            "position": {
+                "id": "wspos600964",
+                "title": "Instructor of Computer Science",
+                "location": {
+                    "country": "us",
+                    "city": "Plymouth",
+                    "region": "WI",
+                    "postalCode": "53073"
+                }
+            }
+        },
+        {
+            "href": "/jobs/10bd0bc46818db3dbdb8e92fe61c2731",
+            "id": "10bd0bc46818db3dbdb8e92fe61c2731",
+            "skills": [
+                "Consulting",
+                "User Experience",
+                "Business Analysis",
+                "UI/UX",
+                "Requirements"
+            ],
+            "webUrl": "http://www.dice.com/job/result//123748",
+            "position": {
+                "id": "123748",
+                "title": "Manager of Professional Services",
+                "location": {
+                    "country": "us",
+                    "city": "El Segundo",
+                    "region": "CA",
+                    "postalCode": "90245"
+                }
+            }
+        },
+        {
+            "href": "/jobs/90360b42ea40fab2c3beeb57a2f5e65f",
+            "id": "90360b42ea40fab2c3beeb57a2f5e65f",
+            "skills": [
+                "SQL",
+                "SQL Server",
+                "C++"
+            ],
+            "webUrl": "http://www.dice.com/job/result//467018",
+            "position": {
+                "id": "467018",
+                "title": "C++ Developer",
+                "location": {
+                    "country": "us",
+                    "city": "Boston",
+                    "region": "MA",
+                    "postalCode": "02210"
+                }
+            }
+        },
+        {
+            "href": "/jobs/c3c7f66aa5850c3f91577da4d213edaa",
+            "id": "c3c7f66aa5850c3f91577da4d213edaa",
+            "skills": [
+                "MySQL",
+                "DBA"
+            ],
+            "webUrl": "http://www.dice.com/job/result//608662",
+            "position": {
+                "id": "608662",
+                "title": "MySQL DBA-Direct Hire-Boulder",
+                "location": {
+                    "country": "us",
+                    "city": "Boulder",
+                    "region": "CO",
+                    "postalCode": "80302"
+                }
+            }
+        },
+        {
+            "href": "/jobs/767710bb0e0695249fe2dcad4d9b554b",
+            "id": "767710bb0e0695249fe2dcad4d9b554b",
+            "skills": [
+                "Websphere MQ",
+                "WMB",
+                "IIB v9 / WMB v8"
+            ],
+            "webUrl": "http://www.dice.com/job/result//602463",
+            "position": {
+                "id": "602463",
+                "title": "Senior WMB Consultants / Architect / Lead /",
+                "location": {
+                    "country": "us",
+                    "city": "Teaneck",
+                    "region": "NJ",
+                    "postalCode": "07666"
+                }
+            }
+        },
+        {
+            "href": "/jobs/aa0070f0aa115b0448071a5597b6d53d",
+            "id": "aa0070f0aa115b0448071a5597b6d53d",
+            "skills": [
+                "Costing",
+                "Genetics",
+                "Consulting",
+                "Management",
+                "IBM",
+                "Oracle",
+                "Supply Chain",
+                "Consultant",
+                "Project",
+                "Testing",
+                "ERP"
+            ],
+            "webUrl": "http://www.dice.com/job/result//GBS-0537005_10",
+            "position": {
+                "id": "GBS-0537005_10",
+                "title": "Oracle Projects Senior Consultant",
+                "location": {
+                    "country": "US",
+                    "city": "Boston",
+                    "region": "MA",
+                    "postalCode": "02108"
+                }
+            }
+        },
+        {
+            "href": "/jobs/5d5865e4c9df25ff38115a91cda1c8ae",
+            "id": "5d5865e4c9df25ff38115a91cda1c8ae",
+            "skills": [
+                "AR",
+                "Finance",
+                "E1",
+                "JD Edwards",
+                "GL",
+                "Job Cost",
+                "Functional",
+                "AP",
+                "EnterpriseOne",
+                "Fixed Assets"
+            ],
+            "webUrl": "http://www.dice.com/job/result//JDE-SC-2013",
+            "position": {
+                "id": "JDE-SC-2013",
+                "title": "JD Edwards Functional Consultant - Finance (Fulltime)",
+                "location": {
+                    "country": "us",
+                    "city": "Edison",
+                    "region": "NJ",
+                    "postalCode": "08820"
+                }
+            }
+        },
+        {
+            "href": "/jobs/dd7b07b9cdd89b8be2965b778ff556c4",
+            "id": "dd7b07b9cdd89b8be2965b778ff556c4",
+            "skills": [
+                "Eclipse",
+                "Tomcat 6+",
+                "Postgresql",
+                "Spring 2.5+",
+                "Java 5+",
+                "OAUTH",
+                "REST",
+                "NoSQL/RDBMS platform",
+                "RabbitMQ"
+            ],
+            "webUrl": "http://www.dice.com/job/result//wspos615728",
+            "position": {
+                "id": "wspos615728",
+                "title": "Sr. Software Developer",
+                "location": {
+                    "country": "us",
+                    "city": "San Francisco",
+                    "region": "CA",
+                    "postalCode": "94108"
+                }
+            }
+        },
+        {
+            "href": "/jobs/76dcface48f7cec8574b4692345b93f1",
+            "id": "76dcface48f7cec8574b4692345b93f1",
+            "skills": [
+                "SQL",
+                "DOM",
+                "Drupal",
+                "LAMP",
+                "PHP5"
+            ],
+            "webUrl": "http://www.dice.com/job/result//3859301",
+            "position": {
+                "id": "3859301",
+                "title": "Web Architect",
+                "location": {
+                    "country": "us",
+                    "city": "Hollywood",
+                    "region": "CA",
+                    "postalCode": "90028"
+                }
+            }
+        }
+    ]
+}

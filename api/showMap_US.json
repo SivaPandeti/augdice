@@ -1,0 +1,34 @@
+{
+	"lat": "39.8097343",
+	"lng": "-98.5556199",
+	"count": "22000",
+	"url": "showMap?location_level=country&location_value=US&distance=&skills=ruby,rails",
+	"location_level": "country",
+	"location_value": "US",
+	"results": [
+					{
+						"location_level": "city", 
+						"location_value": "San Francisco", 
+						"lat": "37.775", 
+						"lng": "-122.4183333", 
+						"count": "10000", 
+						"url": "showMap?location_level=city&location_value=San%20Francisco&distance=&skills=ruby,rails"
+					},
+					{
+						"location_level": "city", 
+						"location_value": "Dallas", 
+						"lat": "32.7833333", 
+						"lng": "-96.8", 
+						"count": "4000", 
+						"url": "showMap?location_level=city&location_value=Dallas&distance=&skills=ruby,rails"
+					},
+					{
+						"location_level": "city", 
+						"location_value": "Dallas", 
+						"lat": "40.7141667", 
+						"lng": "-74.0063889", 
+						"count": "8000", 
+						"url": "showMap?location_level=city&location_value=New%20York&distance=&skills=ruby,rails"
+					}
+				]
+}

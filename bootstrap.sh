@@ -13,6 +13,7 @@ apt-get install -y python-mysqldb
 pip install virtualenv
 pip install Django==1.6.5
 pip install boto
+pip install django-oauth-toolkit django-cors-headers
 #pip install mysql-python==1.2.3
 
 # Install eb (elastic beanstalk) cli tools

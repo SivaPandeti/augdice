@@ -5,8 +5,8 @@
 	"url": "showMap?country=US",
 	"country": "US",
 	"markers": [
-				{"lat": "37.775", "lng": "-122.4183333", "count": "10000", "region": "NorthernCalifornia", "url": "showMap?country=US&region=NorthernCalifornia"},
+				{"lat": "37.775", "lng": "-122.4183333", "count": "10000", "region": "NorthernCalifornia", "url": "showMap?country=US&state=&region=NorthernCalifornia&distance=&skills=ruby,rails"},
 				{"lat": "32.7833333", "lng": "-96.8", "count": "4000", "region": "NorthTexas", "url": "showMap?country=US&region=NorthTexas"},
-				{"lat": "40.7141667", "lng": "-74.0063889", "count": "8000", "region": "NY-NJ-Tristate", "url": "showMap?country=US&region=NY-NJ-Tristate"}
+				{"lat": "40.7141667", "lng": "-74.0063889", "count": "8000", "region": "NY-NJ-Tristate", "url": "showMap?country=US"}
 				]
 }
